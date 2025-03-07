@@ -119,7 +119,7 @@ modify column Customer_Rating DECIMAL(5,1);
 ```
 --------------------------------------------------------------------------------------------------------------------------
 
--- **Business Queryies**
+**Business Queryies**
 ```sql
 
 -- 1. Retrieve all successful bookings:
