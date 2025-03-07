@@ -1,13 +1,3 @@
-https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/Ola_booking.sql
-
-
-https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/Ola_booking_data.csv
-
-https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Ola%20_booking_powerBI.pbix
-
-https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201122.png
-
-
 [Ola_Bookings_Analysis](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/Ola_booking_data.csv)
 
 **Overview**
