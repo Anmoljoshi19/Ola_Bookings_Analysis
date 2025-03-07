@@ -233,6 +233,10 @@ insights can be derived regarding customer behavior, ride demand patterns, and o
 supports SQL-based analysis and Power BI visualization, enabling data-driven decision-making for optimizing ride services,
 reducing cancellations, and improving overall user experience.
 
-[Dashboard](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201122.png)
+[Dashboard Slide 1](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201122.png)
+[Dashboard Slide 2](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201233.png)
+[Dashboard Slide 3](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201301.png)
+[Dashboard Slide 4](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201314.png)
+[Dashboard Slide 5](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Complete_report_ss/Screenshot%202025-03-07%20201331.png)
 
 [Dashboard_file](https://github.com/Anmoljoshi19/Ola_Bookings_Analysis/blob/main/PowerBI%20Report/Ola%20_booking_powerBI.pbix)
