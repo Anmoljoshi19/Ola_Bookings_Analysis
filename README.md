@@ -10,9 +10,8 @@ into ride volume, revenue, customer behavior, and rating distributions to suppor
 
 **Tools Used**
 
-MySQL – Data Cleaning, Transformation & Analysis
-Power BI – For Visualizations
-
+- MySQL (Data Cleaning, Transformation & Analysis)
+- Power BI (Visualizations)
 --------------------------------------------------------------------------------------------------------------------------
 
 **Dataset**
